@@ -1,0 +1,14 @@
+.isLoading , .error{
+  margin: 1rem auto;
+  width: 90%;
+  max-width: 40rem;
+  text-align: center;
+  background-color: white;
+  padding: 2rem;
+  border-radius: 12px;
+  letter-spacing: 2px;
+}
+
+.error{
+  color: #ff4500;
+}
