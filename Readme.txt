@@ -6,7 +6,7 @@ run command => npm install
 │                │                                                     │
 │                │                                                     │
 │                │                                                     │
-│                │         use-https is custom component for │         │
+│                │       use-https is a custom component for │         │
 │                │                                           │         │
 │                │                                           │         │
 │                │                 React JS   ◄──────────────┘         │
@@ -17,10 +17,10 @@ run command => npm install
                  │    │                                             │  │
                  │    │    writed by Mahdi Falahati ────────────┐   │  │
                  │    │                                         │   │  │
-                 │    │       for show how use look code (:    ◄┘   │  │
+                 │    │  for show how to use look the code (:  ◄┘   │  │
                  │    │                                             │  │
-                 │    │    use-http.jsx => code how send requet     │  │
-                 │    │app.jsx => example for how use ( use-https ) │  │
+                 │    │ use-http.jsx => code how to send requet     │  │
+                 │    │app.jsx=>example for how to use ( use-https )│  │
                  │    └─────────────────────────────────────────────┘  │
                  │                      have fun                       │
                  └─────────────────────────────────────────────────────┘
